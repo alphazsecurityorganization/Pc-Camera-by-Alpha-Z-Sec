@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebCamApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VideoOutputPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ImageOutputPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="VideoNamePattern" Type="System.String" Scope="User">
+      <Value Profile="(Default)">video_{datetime}</Value>
+    </Setting>
+    <Setting Name="ImageNamePattern" Type="System.String" Scope="User">
+      <Value Profile="(Default)">image_{datetime}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
